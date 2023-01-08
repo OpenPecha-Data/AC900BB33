@@ -1,0 +1,19 @@
+id: AC900BB33
+title: Prayer to the Chain of Rebirths
+type: translation
+pechas:
+- I5F250C99
+- I77DB7717
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:05.456549
+  last_modified_at: 2023-01-04 12:50:05.456571
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I5F250C99/4AE1: '5444'
+  I77DB7717/3BC7: '5444'
